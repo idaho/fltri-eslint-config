@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.0...1.0.1) (2021-03-06)
+
+
+### Bug Fixes
+
+* title in README.md ([#6](https://github.com/idaho/eslint-config-idaho1980/issues/6)) ([cd4d980](https://github.com/idaho/eslint-config-idaho1980/commit/cd4d9806b6bbdbe14143eec310f462a23f80bb8f))
+
 # 1.0.0 (2021-03-06)
 
 
