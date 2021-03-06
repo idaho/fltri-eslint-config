@@ -11,7 +11,7 @@ const getDefaults = (config: EslintConfig): EslintConfig => ({
   },
   parserOptions: {
     ...config.parserOptions,
-    parserOptions
+    ...parserOptions
   },
   rules: {
     ...config.rules,
