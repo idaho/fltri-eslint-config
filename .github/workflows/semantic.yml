@@ -19,6 +19,9 @@ jobs:
     - name: Install dependencies
       run: |
         npm install
+    - name: Compiling
+      run: |
+        npm run compile
     - name: Release
       env:
         GITHUB_TOKEN: ${{ secrets.SEMANTIC_TOKEN }}
