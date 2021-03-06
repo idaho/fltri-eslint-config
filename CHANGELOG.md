@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.1...1.0.2) (2021-03-06)
+
+
+### Bug Fixes
+
+* add missing compile step in workflow ([#7](https://github.com/idaho/eslint-config-idaho1980/issues/7)) ([6e6f7e5](https://github.com/idaho/eslint-config-idaho1980/commit/6e6f7e50d3c4bfb426ce947e40d6572768633d6f))
+
 ## [1.0.1](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.0...1.0.1) (2021-03-06)
 
 
