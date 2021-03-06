@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.2...1.0.3) (2021-03-06)
+
+
+### Bug Fixes
+
+* parser options assignment ([#8](https://github.com/idaho/eslint-config-idaho1980/issues/8)) ([9a8e58b](https://github.com/idaho/eslint-config-idaho1980/commit/9a8e58b6007366846908b2ddf0c76b2e97e8c2eb))
+
 ## [1.0.2](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.1...1.0.2) (2021-03-06)
 
 
