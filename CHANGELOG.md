@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.4...1.0.5) (2021-03-08)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-mocha from 8.0.0 to 8.1.0 ([#14](https://github.com/idaho/eslint-config-idaho1980/issues/14)) ([7e5d644](https://github.com/idaho/eslint-config-idaho1980/commit/7e5d644bd99fe1d7b7060d5e59be6c1f90448933))
+
 ## [1.0.4](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.3...1.0.4) (2021-03-08)
 
 
