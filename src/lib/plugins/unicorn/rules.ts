@@ -21,7 +21,8 @@ const rules = {
       snakeCase: false
     },
     ignore: [
-      'next-env.d.ts'
+      'next-env.d.ts',
+      'package-lock.json'
     ]
   }],
   'unicorn/import-index': [ 'error', { ignoreImports: false }],
