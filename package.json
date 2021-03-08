@@ -17,7 +17,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "rimraf lib/ node.js web.js && npx tsc",
     "prelint": "npm run compile",
-    "lint": "npx eslint ./src --ext .ts"
+    "lint": "npx eslint ./ --ext .ts,.json,.js",
+    "qa": "npm run lint"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "4.16.1",
