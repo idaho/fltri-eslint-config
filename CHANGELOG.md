@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.3...1.0.4) (2021-03-08)
+
+
+### Bug Fixes
+
+* filename-case rule add package-lock.json to ignore ([#9](https://github.com/idaho/eslint-config-idaho1980/issues/9)) ([95f37c2](https://github.com/idaho/eslint-config-idaho1980/commit/95f37c299c3e4fc51d3566bdeefcf0f76f8ae049))
+
 ## [1.0.3](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.2...1.0.3) (2021-03-06)
 
 
