@@ -1,6 +1,7 @@
 ---
-name: Feature
+name: feature
 about: Submit a feature to request or describe new functionality to be added.
+labels: feature
 ---
 
 ### What is this feature about?

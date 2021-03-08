@@ -1,6 +1,7 @@
 ---
-name: Bug
+name: bug
 about: Submit a bug to report erroneous behavior that needs to be fixed.
+labels: bug
 ---
 
 ### What is this bug about?

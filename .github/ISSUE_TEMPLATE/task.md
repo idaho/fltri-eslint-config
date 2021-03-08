@@ -1,6 +1,7 @@
 ---
-name: Task
+name: task
 about: Submit a task to describe something that needs to get done.
+labels: task
 ---
 
 ### What is this task about?
