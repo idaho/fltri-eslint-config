@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.6...1.0.7) (2021-03-08)
+
+
+### Bug Fixes
+
+* install missing plugin 'better-styled-components' ([#18](https://github.com/idaho/eslint-config-idaho1980/issues/18)) ([b3188aa](https://github.com/idaho/eslint-config-idaho1980/commit/b3188aa97274c92a0d409b4a7b166595f3c570a1))
+
 ## [1.0.6](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.5...1.0.6) (2021-03-08)
 
 
