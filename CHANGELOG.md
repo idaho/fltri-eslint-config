@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.24...1.0.25) (2021-04-08)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 4.20.0 to 4.21.0 ([#50](https://github.com/idaho/eslint-config-idaho1980/issues/50)) ([d9cd1ce](https://github.com/idaho/eslint-config-idaho1980/commit/d9cd1ced0d6c36e6a5ca1f413e1ae59536af817a))
+
 ## [1.0.24](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.23...1.0.24) (2021-04-08)
 
 
