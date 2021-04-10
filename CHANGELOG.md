@@ -1,3 +1,10 @@
+## [1.0.26](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.25...1.0.26) (2021-04-10)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-react from 7.23.1 to 7.23.2 ([#53](https://github.com/idaho/eslint-config-idaho1980/issues/53)) ([c13f921](https://github.com/idaho/eslint-config-idaho1980/commit/c13f921e41bf0aad37332243f95b5fd0d7209278))
+
 ## [1.0.25](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.24...1.0.25) (2021-04-08)
 
 
