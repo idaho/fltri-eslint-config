@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-idaho1980",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "My custom ESLint config set.",
   "main": "node.js",
   "author": "idaho",
