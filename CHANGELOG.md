@@ -1,3 +1,10 @@
+## [1.0.35](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.34...1.0.35) (2021-05-05)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/parser from 4.22.0 to 4.22.1 ([#72](https://github.com/idaho/eslint-config-idaho1980/issues/72)) ([868396e](https://github.com/idaho/eslint-config-idaho1980/commit/868396edb2d1680739ce21ecb6c665f4119a2faa))
+
 ## [1.0.34](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.33...1.0.34) (2021-05-05)
 
 
