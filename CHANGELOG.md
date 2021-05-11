@@ -1,3 +1,10 @@
+## [1.0.36](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.35...1.0.36) (2021-05-11)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-unicorn from 31.0.0 to 32.0.1 ([#75](https://github.com/idaho/eslint-config-idaho1980/issues/75)) ([fab577a](https://github.com/idaho/eslint-config-idaho1980/commit/fab577a1538b1c58eaa5dd0149636435ee144e76))
+
 ## [1.0.35](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.34...1.0.35) (2021-05-05)
 
 
