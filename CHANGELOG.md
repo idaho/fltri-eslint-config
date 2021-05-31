@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.44...1.1.0) (2021-05-31)
+
+
+### Features
+
+* add @sematic-release/github ([#97](https://github.com/idaho/eslint-config-idaho1980/issues/97)) ([85e9767](https://github.com/idaho/eslint-config-idaho1980/commit/85e97673e83a9adff66bc5ba2007d42d5e0750c3))
+
 ## [1.0.44](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.43...1.0.44) (2021-05-31)
 
 
