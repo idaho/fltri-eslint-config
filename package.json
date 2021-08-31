@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-idaho1980",
+  "name": "@fltri/eslint-config",
   "version": "1.1.6",
   "description": "My custom ESLint config set.",
   "main": "node.js",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idaho/eslint-config-idaho1980.git"
+    "url": "git+https://github.com/idaho/fltri-eslint-config.git"
   },
   "bugs": {
-    "url": "https://github.com/idaho/eslint-config-idaho1980/issues"
+    "url": "https://github.com/idaho/fltri-eslint-config/issues"
   },
-  "homepage": "https://github.com/idaho/eslint-config-idaho1980#readme",
+  "homepage": "https://github.com/idaho/fltri-eslint-config#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "rimraf lib/ node.js web.js && npx tsc",
