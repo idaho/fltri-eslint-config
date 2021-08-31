@@ -1,6 +1,93 @@
 # 1.0.0 (2021-08-31)
 
 
+* BREAKING CHANGE: rename package (#4) ([5f03727](https://github.com/idaho/fltri-eslint-config/commit/5f0372764f146767d7ddf14be18403be82d303a3)), closes [#4](https://github.com/idaho/fltri-eslint-config/issues/4)
+* BREAKING CHANGE: rename package (#3) ([8db11e1](https://github.com/idaho/fltri-eslint-config/commit/8db11e1de76d81cdbc59cde13dc3c5c4513e4256)), closes [#3](https://github.com/idaho/fltri-eslint-config/issues/3)
+
+
+### Bug Fixes
+
+* add missing compile step in workflow ([#7](https://github.com/idaho/fltri-eslint-config/issues/7)) ([6e6f7e5](https://github.com/idaho/fltri-eslint-config/commit/6e6f7e50d3c4bfb426ce947e40d6572768633d6f))
+* bump @typescript-eslint/eslint-plugin from 4.16.1 to 4.17.0 ([#23](https://github.com/idaho/fltri-eslint-config/issues/23)) ([abfe49c](https://github.com/idaho/fltri-eslint-config/commit/abfe49c6982c4aeedff815342c922be55bd7196d))
+* bump @typescript-eslint/eslint-plugin from 4.17.0 to 4.18.0 ([#32](https://github.com/idaho/fltri-eslint-config/issues/32)) ([7257994](https://github.com/idaho/fltri-eslint-config/commit/725799486643c55cb20d818360bcf5dc52347ec4))
+* bump @typescript-eslint/eslint-plugin from 4.18.0 to 4.19.0 ([#39](https://github.com/idaho/fltri-eslint-config/issues/39)) ([7bd61a0](https://github.com/idaho/fltri-eslint-config/commit/7bd61a051a0f2ecaf952fdf355a2d67f35c482f4))
+* bump @typescript-eslint/eslint-plugin from 4.19.0 to 4.20.0 ([#45](https://github.com/idaho/fltri-eslint-config/issues/45)) ([253ab59](https://github.com/idaho/fltri-eslint-config/commit/253ab596467381fdb761a7ca917b11060a490594))
+* bump @typescript-eslint/eslint-plugin from 4.20.0 to 4.21.0 ([#50](https://github.com/idaho/fltri-eslint-config/issues/50)) ([d9cd1ce](https://github.com/idaho/fltri-eslint-config/commit/d9cd1ced0d6c36e6a5ca1f413e1ae59536af817a))
+* bump @typescript-eslint/eslint-plugin from 4.21.0 to 4.22.0 ([#58](https://github.com/idaho/fltri-eslint-config/issues/58)) ([0e5b80b](https://github.com/idaho/fltri-eslint-config/commit/0e5b80b6ee6fc1fa444ef2c3dc54f19888e088d2))
+* bump @typescript-eslint/eslint-plugin from 4.22.0 to 4.22.1 ([#71](https://github.com/idaho/fltri-eslint-config/issues/71)) ([6ceeb6c](https://github.com/idaho/fltri-eslint-config/commit/6ceeb6c439e71b9df46f517457f5378474f16a0b))
+* bump @typescript-eslint/eslint-plugin from 4.22.1 to 4.23.0 ([#77](https://github.com/idaho/fltri-eslint-config/issues/77)) ([dd25b2d](https://github.com/idaho/fltri-eslint-config/commit/dd25b2d554540185f8d8e01bf5991b50cb9445cf))
+* bump @typescript-eslint/eslint-plugin from 4.23.0 to 4.24.0 ([#82](https://github.com/idaho/fltri-eslint-config/issues/82)) ([ef5f2fd](https://github.com/idaho/fltri-eslint-config/commit/ef5f2fd27c52a837cceaafb790f9d19b76d86d30))
+* bump @typescript-eslint/eslint-plugin from 4.24.0 to 4.25.0 ([#88](https://github.com/idaho/fltri-eslint-config/issues/88)) ([d35d789](https://github.com/idaho/fltri-eslint-config/commit/d35d7892848ec5952d41804c616c8331134b78c6))
+* bump @typescript-eslint/eslint-plugin from 4.25.0 to 4.30.0 ([#159](https://github.com/idaho/fltri-eslint-config/issues/159)) ([90082bc](https://github.com/idaho/fltri-eslint-config/commit/90082bc036309ef0a6c67c33613d1eb7a2ff9096))
+* bump @typescript-eslint/parser from 4.16.1 to 4.17.0 ([#21](https://github.com/idaho/fltri-eslint-config/issues/21)) ([92da066](https://github.com/idaho/fltri-eslint-config/commit/92da066e53514575124e6fa2271b664c3110daaa))
+* bump @typescript-eslint/parser from 4.17.0 to 4.18.0 ([#33](https://github.com/idaho/fltri-eslint-config/issues/33)) ([a513cd5](https://github.com/idaho/fltri-eslint-config/commit/a513cd50b39be7e98dc7a114ff90df4cd795cac2))
+* bump @typescript-eslint/parser from 4.18.0 to 4.19.0 ([#40](https://github.com/idaho/fltri-eslint-config/issues/40)) ([b392fff](https://github.com/idaho/fltri-eslint-config/commit/b392ffffcf226f628e111439c0c61629ddae9b21))
+* bump @typescript-eslint/parser from 4.19.0 to 4.20.0 ([#46](https://github.com/idaho/fltri-eslint-config/issues/46)) ([3b9cd0f](https://github.com/idaho/fltri-eslint-config/commit/3b9cd0f1f4c96fbe642d9272453a01a9b8ea5d44))
+* bump @typescript-eslint/parser from 4.20.0 to 4.21.0 ([#51](https://github.com/idaho/fltri-eslint-config/issues/51)) ([e231257](https://github.com/idaho/fltri-eslint-config/commit/e231257b0ddf6e26e4efc10ffadc7a1f8f035e24))
+* bump @typescript-eslint/parser from 4.21.0 to 4.22.0 ([#59](https://github.com/idaho/fltri-eslint-config/issues/59)) ([0ebac1c](https://github.com/idaho/fltri-eslint-config/commit/0ebac1ca81f21cfbd018b9a6fc19269f138501b4))
+* bump @typescript-eslint/parser from 4.22.0 to 4.22.1 ([#72](https://github.com/idaho/fltri-eslint-config/issues/72)) ([868396e](https://github.com/idaho/fltri-eslint-config/commit/868396edb2d1680739ce21ecb6c665f4119a2faa))
+* bump @typescript-eslint/parser from 4.22.1 to 4.23.0 ([#76](https://github.com/idaho/fltri-eslint-config/issues/76)) ([35ae932](https://github.com/idaho/fltri-eslint-config/commit/35ae932786eb16dd470efed2888adfad83d9d5cc))
+* bump @typescript-eslint/parser from 4.23.0 to 4.24.0 ([#81](https://github.com/idaho/fltri-eslint-config/issues/81)) ([be728d5](https://github.com/idaho/fltri-eslint-config/commit/be728d5a38696cc4158d14001f9da8ed18b1e4ea))
+* bump @typescript-eslint/parser from 4.24.0 to 4.25.0 ([#89](https://github.com/idaho/fltri-eslint-config/issues/89)) ([42bc7df](https://github.com/idaho/fltri-eslint-config/commit/42bc7df1049425af5ac1c789370631d56086bc88))
+* bump @typescript-eslint/parser from 4.25.0 to 4.30.0 ([#157](https://github.com/idaho/fltri-eslint-config/issues/157)) ([0a15116](https://github.com/idaho/fltri-eslint-config/commit/0a1511656a497fd49f334b981b92872395eeb0ee))
+* bump eslint-plugin-jest from 24.1.5 to 24.1.9 ([#16](https://github.com/idaho/fltri-eslint-config/issues/16)) ([a2a82c5](https://github.com/idaho/fltri-eslint-config/commit/a2a82c5c845373d2f1ede1e750b3ecd343d3b8c5))
+* bump eslint-plugin-jest from 24.1.9 to 24.2.0 ([#26](https://github.com/idaho/fltri-eslint-config/issues/26)) ([240b8c5](https://github.com/idaho/fltri-eslint-config/commit/240b8c5fd92f979107460af888a3a465849b001c))
+* bump eslint-plugin-jest from 24.2.0 to 24.2.1 ([#27](https://github.com/idaho/fltri-eslint-config/issues/27)) ([760c75a](https://github.com/idaho/fltri-eslint-config/commit/760c75a723319a9214d909deccd0e2182b965263))
+* bump eslint-plugin-jest from 24.2.1 to 24.3.1 ([#30](https://github.com/idaho/fltri-eslint-config/issues/30)) ([adad815](https://github.com/idaho/fltri-eslint-config/commit/adad815a99aa8ba7c65728c8306de4779d17dc59))
+* bump eslint-plugin-jest from 24.3.1 to 24.3.2 ([#35](https://github.com/idaho/fltri-eslint-config/issues/35)) ([1a62827](https://github.com/idaho/fltri-eslint-config/commit/1a628274eabe3b5164fb95f94d2faf7a4f7ec893))
+* bump eslint-plugin-jest from 24.3.2 to 24.3.4 ([#49](https://github.com/idaho/fltri-eslint-config/issues/49)) ([704ee6b](https://github.com/idaho/fltri-eslint-config/commit/704ee6b141ed5e74a5deabc0544c561d250f5eab))
+* bump eslint-plugin-jest from 24.3.4 to 24.3.5 ([#57](https://github.com/idaho/fltri-eslint-config/issues/57)) ([fb57b75](https://github.com/idaho/fltri-eslint-config/commit/fb57b759765369960ad9b798286b54375af32514))
+* bump eslint-plugin-jest from 24.3.5 to 24.3.6 ([#65](https://github.com/idaho/fltri-eslint-config/issues/65)) ([9553f8b](https://github.com/idaho/fltri-eslint-config/commit/9553f8b2a635062c42ad53a12c264596787ca755))
+* bump eslint-plugin-jest from 24.3.6 to 24.4.0 ([#162](https://github.com/idaho/fltri-eslint-config/issues/162)) ([04a1d46](https://github.com/idaho/fltri-eslint-config/commit/04a1d46018861a25cbce478b8879063e9d1736a2))
+* bump eslint-plugin-json from 2.1.2 to 3.0.0 ([#69](https://github.com/idaho/fltri-eslint-config/issues/69)) ([8fee2d9](https://github.com/idaho/fltri-eslint-config/commit/8fee2d925c0b056d75f375b8398442889a7ffed1))
+* bump eslint-plugin-json from 3.0.0 to 3.1.0 ([#161](https://github.com/idaho/fltri-eslint-config/issues/161)) ([7f30e41](https://github.com/idaho/fltri-eslint-config/commit/7f30e418679ace24d0be0d5cc31d0336d65ad554))
+* bump eslint-plugin-mocha from 8.0.0 to 8.1.0 ([#14](https://github.com/idaho/fltri-eslint-config/issues/14)) ([7e5d644](https://github.com/idaho/fltri-eslint-config/commit/7e5d644bd99fe1d7b7060d5e59be6c1f90448933))
+* bump eslint-plugin-mocha from 8.1.0 to 9.0.0 ([#92](https://github.com/idaho/fltri-eslint-config/issues/92)) ([b944bff](https://github.com/idaho/fltri-eslint-config/commit/b944bff25f12263bc5e5ee33212394878b7d8fbc))
+* bump eslint-plugin-react from 7.22.0 to 7.23.0 ([#37](https://github.com/idaho/fltri-eslint-config/issues/37)) ([fec82fc](https://github.com/idaho/fltri-eslint-config/commit/fec82fc2964aac21a164c31f2f30b055dfdc043f))
+* bump eslint-plugin-react from 7.23.0 to 7.23.1 ([#41](https://github.com/idaho/fltri-eslint-config/issues/41)) ([c44e172](https://github.com/idaho/fltri-eslint-config/commit/c44e17291a59da0d793c5b0c9537a4906f819751))
+* bump eslint-plugin-react from 7.23.1 to 7.23.2 ([#53](https://github.com/idaho/fltri-eslint-config/issues/53)) ([c13f921](https://github.com/idaho/fltri-eslint-config/commit/c13f921e41bf0aad37332243f95b5fd0d7209278))
+* bump eslint-plugin-react from 7.23.2 to 7.24.0 ([#95](https://github.com/idaho/fltri-eslint-config/issues/95)) ([307cbc4](https://github.com/idaho/fltri-eslint-config/commit/307cbc48fee424c91417ef3340391c4ad59226c0))
+* bump eslint-plugin-react from 7.24.0 to 7.25.1 ([#167](https://github.com/idaho/fltri-eslint-config/issues/167)) ([80121f0](https://github.com/idaho/fltri-eslint-config/commit/80121f0b25ca335194938fb6a0b1087345b06f90))
+* bump eslint-plugin-unicorn from 28.0.2 to 29.0.0 ([#36](https://github.com/idaho/fltri-eslint-config/issues/36)) ([e82aa7c](https://github.com/idaho/fltri-eslint-config/commit/e82aa7cace23e6b2f0bbd32c3d73fd20da7a835d))
+* bump eslint-plugin-unicorn from 29.0.0 to 30.0.0 ([#63](https://github.com/idaho/fltri-eslint-config/issues/63)) ([6dbc5e1](https://github.com/idaho/fltri-eslint-config/commit/6dbc5e195c3aefb0166ad7a476eaa0552e353638))
+* bump eslint-plugin-unicorn from 30.0.0 to 31.0.0 ([#64](https://github.com/idaho/fltri-eslint-config/issues/64)) ([d858a10](https://github.com/idaho/fltri-eslint-config/commit/d858a10a287c8cba06e235adeefa926e709fe79b))
+* bump eslint-plugin-unicorn from 31.0.0 to 32.0.1 ([#75](https://github.com/idaho/fltri-eslint-config/issues/75)) ([fab577a](https://github.com/idaho/fltri-eslint-config/commit/fab577a1538b1c58eaa5dd0149636435ee144e76))
+* bump eslint-plugin-unicorn from 32.0.1 to 33.0.1 ([#104](https://github.com/idaho/fltri-eslint-config/issues/104)) ([ff0e2fb](https://github.com/idaho/fltri-eslint-config/commit/ff0e2fbaa6824a6eb2bc15976c3e7d1d28ed382b))
+* filename-case rule add package-lock.json to ignore ([#9](https://github.com/idaho/fltri-eslint-config/issues/9)) ([95f37c2](https://github.com/idaho/fltri-eslint-config/commit/95f37c299c3e4fc51d3566bdeefcf0f76f8ae049))
+* install missing plugin 'better-styled-components' ([#18](https://github.com/idaho/fltri-eslint-config/issues/18)) ([b3188aa](https://github.com/idaho/fltri-eslint-config/commit/b3188aa97274c92a0d409b4a7b166595f3c570a1))
+* package.json and releaserc ([#5](https://github.com/idaho/fltri-eslint-config/issues/5)) ([b993dda](https://github.com/idaho/fltri-eslint-config/commit/b993dda416dbd658f48fca7021cfe54461eda9a8))
+* parser options assignment ([#8](https://github.com/idaho/fltri-eslint-config/issues/8)) ([9a8e58b](https://github.com/idaho/fltri-eslint-config/commit/9a8e58b6007366846908b2ddf0c76b2e97e8c2eb))
+* title in README.md ([#6](https://github.com/idaho/fltri-eslint-config/issues/6)) ([cd4d980](https://github.com/idaho/fltri-eslint-config/commit/cd4d9806b6bbdbe14143eec310f462a23f80bb8f))
+
+
+### chore
+
+* **release:** 1.0.0 [skip ci] ([3065ff3](https://github.com/idaho/fltri-eslint-config/commit/3065ff3eb61d3771684624c2779f11f3ec845e3f)), closes [#7](https://github.com/idaho/fltri-eslint-config/issues/7) [#23](https://github.com/idaho/fltri-eslint-config/issues/23) [#32](https://github.com/idaho/fltri-eslint-config/issues/32) [#39](https://github.com/idaho/fltri-eslint-config/issues/39) [#45](https://github.com/idaho/fltri-eslint-config/issues/45) [#50](https://github.com/idaho/fltri-eslint-config/issues/50) [#58](https://github.com/idaho/fltri-eslint-config/issues/58) [#71](https://github.com/idaho/fltri-eslint-config/issues/71) [#77](https://github.com/idaho/fltri-eslint-config/issues/77) [#82](https://github.com/idaho/fltri-eslint-config/issues/82) [#88](https://github.com/idaho/fltri-eslint-config/issues/88) [#159](https://github.com/idaho/fltri-eslint-config/issues/159) [#21](https://github.com/idaho/fltri-eslint-config/issues/21) [#33](https://github.com/idaho/fltri-eslint-config/issues/33) [#40](https://github.com/idaho/fltri-eslint-config/issues/40) [#46](https://github.com/idaho/fltri-eslint-config/issues/46) [#51](https://github.com/idaho/fltri-eslint-config/issues/51) [#59](https://github.com/idaho/fltri-eslint-config/issues/59) [#72](https://github.com/idaho/fltri-eslint-config/issues/72) [#76](https://github.com/idaho/fltri-eslint-config/issues/76) [#81](https://github.com/idaho/fltri-eslint-config/issues/81) [#89](https://github.com/idaho/fltri-eslint-config/issues/89) [#157](https://github.com/idaho/fltri-eslint-config/issues/157) [#16](https://github.com/idaho/fltri-eslint-config/issues/16) [#26](https://github.com/idaho/fltri-eslint-config/issues/26) [#27](https://github.com/idaho/fltri-eslint-config/issues/27) [#30](https://github.com/idaho/fltri-eslint-config/issues/30) [#35](https://github.com/idaho/fltri-eslint-config/issues/35) [#49](https://github.com/idaho/fltri-eslint-config/issues/49) [#57](https://github.com/idaho/fltri-eslint-config/issues/57) [#65](https://github.com/idaho/fltri-eslint-config/issues/65) [#162](https://github.com/idaho/fltri-eslint-config/issues/162) [#69](https://github.com/idaho/fltri-eslint-config/issues/69) [#161](https://github.com/idaho/fltri-eslint-config/issues/161) [#14](https://github.com/idaho/fltri-eslint-config/issues/14) [#92](https://github.com/idaho/fltri-eslint-config/issues/92) [#37](https://github.com/idaho/fltri-eslint-config/issues/37) [#41](https://github.com/idaho/fltri-eslint-config/issues/41) [#53](https://github.com/idaho/fltri-eslint-config/issues/53) [#95](https://github.com/idaho/fltri-eslint-config/issues/95) [#167](https://github.com/idaho/fltri-eslint-config/issues/167) [#36](https://github.com/idaho/fltri-eslint-config/issues/36) [#63](https://github.com/idaho/fltri-eslint-config/issues/63) [#64](https://github.com/idaho/fltri-eslint-config/issues/64) [#75](https://github.com/idaho/fltri-eslint-config/issues/75) [#104](https://github.com/idaho/fltri-eslint-config/issues/104) [#9](https://github.com/idaho/fltri-eslint-config/issues/9) [#18](https://github.com/idaho/fltri-eslint-config/issues/18) [#5](https://github.com/idaho/fltri-eslint-config/issues/5) [#8](https://github.com/idaho/fltri-eslint-config/issues/8) [#6](https://github.com/idaho/fltri-eslint-config/issues/6) [#97](https://github.com/idaho/fltri-eslint-config/issues/97) [#3](https://github.com/idaho/fltri-eslint-config/issues/3)
+
+
+### Features
+
+* add @sematic-release/github ([#97](https://github.com/idaho/fltri-eslint-config/issues/97)) ([85e9767](https://github.com/idaho/fltri-eslint-config/commit/85e97673e83a9adff66bc5ba2007d42d5e0750c3))
+* add first working code ([#3](https://github.com/idaho/fltri-eslint-config/issues/3)) ([b48b9e3](https://github.com/idaho/fltri-eslint-config/commit/b48b9e3cc9d7cfb33f9cbde4b92990dee4540335))
+
+
+### BREAKING CHANGES
+
+* remove issue templates
+* add node 16.x to qa workflow
+* rename package
+* set private to false
+* refresh package
+* **release:** rename package (#3) ([8db11e1](https://github.com/idaho/fltri-eslint-config/commit/8db11e1de76d81cdbc59cde13dc3c5c4513e4256)), closes [#3](https://github.com/idaho/fltri-eslint-config/issues/3)
+
+### Bug Fixes
+* remove issue templates
+* add node 16.x to qa workflow
+* rename package
+
+# 1.0.0 (2021-08-31)
+
+
 * BREAKING CHANGE: rename package (#3) ([8db11e1](https://github.com/idaho/fltri-eslint-config/commit/8db11e1de76d81cdbc59cde13dc3c5c4513e4256)), closes [#3](https://github.com/idaho/fltri-eslint-config/issues/3)
 
 
