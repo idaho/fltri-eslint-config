@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/idaho/fltri-eslint-config/compare/1.0.1...1.0.2) (2021-08-31)
+
+
+### Bug Fixes
+
+* update README.md ([#5](https://github.com/idaho/fltri-eslint-config/issues/5)) ([b43c886](https://github.com/idaho/fltri-eslint-config/commit/b43c88639a331e83a15217085f181aa97f15feba))
+
 ## [1.0.1](https://github.com/idaho/fltri-eslint-config/compare/1.0.0...1.0.1) (2021-08-31)
 
 
