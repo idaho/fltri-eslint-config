@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.0...1.1.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-json from 3.0.0 to 3.1.0 ([#161](https://github.com/idaho/eslint-config-idaho1980/issues/161)) ([7f30e41](https://github.com/idaho/eslint-config-idaho1980/commit/7f30e418679ace24d0be0d5cc31d0336d65ad554))
+
 # [1.1.0](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.44...1.1.0) (2021-05-31)
 
 
