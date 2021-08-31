@@ -1,11 +1,11 @@
 type Plugin =
-'defaults'|
-'extended'|
-'jest'|
-'mocha'|
-'radar'|
-'react'|
-'unicorn'|
+'defaults' |
+'extended' |
+'jest' |
+'mocha' |
+'radar' |
+'react' |
+'unicorn' |
 'json' |
 'betterStyledComponents' |
 'typescript'
