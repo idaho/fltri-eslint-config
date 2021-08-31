@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.2...1.1.3) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jest from 24.3.6 to 24.4.0 ([#162](https://github.com/idaho/eslint-config-idaho1980/issues/162)) ([04a1d46](https://github.com/idaho/eslint-config-idaho1980/commit/04a1d46018861a25cbce478b8879063e9d1736a2))
+
 ## [1.1.2](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.1...1.1.2) (2021-08-31)
 
 
