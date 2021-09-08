@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/idaho/fltri-eslint-config/compare/1.0.3...1.0.4) (2021-09-08)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/parser from 4.30.0 to 4.31.0 ([#9](https://github.com/idaho/fltri-eslint-config/issues/9)) ([313aae6](https://github.com/idaho/fltri-eslint-config/commit/313aae66c9268bb54cf592617054a8c7ec423565))
+
 ## [1.0.3](https://github.com/idaho/fltri-eslint-config/compare/1.0.2...1.0.3) (2021-09-08)
 
 
