@@ -31,7 +31,13 @@
     "eslint-plugin-mocha": "9.0.0",
     "eslint-plugin-radar": "0.2.1",
     "eslint-plugin-react": "7.25.1",
-    "eslint-plugin-unicorn": "35.0.0"
+    "eslint-plugin-unicorn": "35.0.0",
+    "glob-parent": "6.0.1",
+    "hosted-git-info": "4.0.2",
+    "normalize-url": "7.0.1",
+    "path-parse": "1.0.7",
+    "postcss": "8.3.6",
+    "trim-newlines": "4.0.2"
   },
   "devDependencies": {
     "@semantic-release/changelog": "5.0.1",
