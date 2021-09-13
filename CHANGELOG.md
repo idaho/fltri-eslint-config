@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/idaho/fltri-eslint-config/compare/1.0.6...1.0.7) (2021-09-13)
+
+
+### Bug Fixes
+
+* bump normalize-url from 7.0.1 to 7.0.2 ([#17](https://github.com/idaho/fltri-eslint-config/issues/17)) ([970d94b](https://github.com/idaho/fltri-eslint-config/commit/970d94b7dc01244c81b86fa075a5206a01dd070c))
+
 ## [1.0.6](https://github.com/idaho/fltri-eslint-config/compare/1.0.5...1.0.6) (2021-09-13)
 
 
