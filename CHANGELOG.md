@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/idaho/fltri-eslint-config/compare/1.0.5...1.0.6) (2021-09-13)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-unicorn from 35.0.0 to 36.0.0 ([#15](https://github.com/idaho/fltri-eslint-config/issues/15)) ([0ed65a3](https://github.com/idaho/fltri-eslint-config/commit/0ed65a3405c51620d1c76df1379cbaa3df7ed659))
+
 ## [1.0.5](https://github.com/idaho/fltri-eslint-config/compare/1.0.4...1.0.5) (2021-09-08)
 
 
