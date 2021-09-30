@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/idaho/fltri-eslint-config/compare/1.0.18...1.0.19) (2021-09-30)
+
+
+### Bug Fixes
+
+* bump glob-parent from 6.0.1 to 6.0.2 ([#38](https://github.com/idaho/fltri-eslint-config/issues/38)) ([f9b93b6](https://github.com/idaho/fltri-eslint-config/commit/f9b93b62e74f82d7e4f1ad6234f623b627a5854b))
+
 ## [1.0.18](https://github.com/idaho/fltri-eslint-config/compare/1.0.17...1.0.18) (2021-09-29)
 
 
