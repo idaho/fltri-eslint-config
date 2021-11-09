@@ -95,8 +95,7 @@ const rules = {
   'unicorn/prefer-set-has': 'error',
   'unicorn/prefer-spread': 'error',
 
-  // TODO[2021-11-01] This should be 'error', unfortunately `replaceAll` is only
-  //                  available in Node.js 15.x, so we have to wait until 16 LTS
+  //                  Available in Node.js 15.x, so we have to wait until 16 LTS
   //                  to be able to enable this rule.
   'unicorn/prefer-string-replace-all': 'off',
   'unicorn/prefer-string-slice': 'error',
