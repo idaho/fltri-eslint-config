@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/idaho/fltri-eslint-config/compare/1.0.29...1.0.30) (2021-11-09)
+
+
+### Bug Fixes
+
+* upgrade eslint to version 8 ([#71](https://github.com/idaho/fltri-eslint-config/issues/71)) ([f261bfa](https://github.com/idaho/fltri-eslint-config/commit/f261bfa53838bef2164e322dc32aeee9bd6371c9))
+
 ## [1.0.29](https://github.com/idaho/fltri-eslint-config/compare/1.0.28...1.0.29) (2021-10-26)
 
 
