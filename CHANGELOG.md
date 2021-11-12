@@ -1,3 +1,10 @@
+## [1.0.34](https://github.com/idaho/fltri-eslint-config/compare/1.0.33...1.0.34) (2021-11-12)
+
+
+### Bug Fixes
+
+* dump ansi-regex fro 5.0.0 to 5.0.1 ([#77](https://github.com/idaho/fltri-eslint-config/issues/77)) ([f4e0ebc](https://github.com/idaho/fltri-eslint-config/commit/f4e0ebc5fe32fec39a11978f6664685e00a38412))
+
 ## [1.0.33](https://github.com/idaho/fltri-eslint-config/compare/1.0.32...1.0.33) (2021-11-12)
 
 
