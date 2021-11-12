@@ -1,3 +1,31 @@
+## [1.0.33](https://github.com/idaho/fltri-eslint-config/compare/1.0.32...1.0.33) (2021-11-12)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jest from 25.2.2 to 25.2.4 ([#74](https://github.com/idaho/fltri-eslint-config/issues/74)) ([749cb8d](https://github.com/idaho/fltri-eslint-config/commit/749cb8d0b45097041eaaa196499c8aad1d592e75))
+
+## [1.0.32](https://github.com/idaho/fltri-eslint-config/compare/1.0.31...1.0.32) (2021-11-12)
+
+
+### Bug Fixes
+
+* bump postcss from 8.3.9 to 8.3.11 ([#63](https://github.com/idaho/fltri-eslint-config/issues/63)) ([42d130a](https://github.com/idaho/fltri-eslint-config/commit/42d130a9a89f0bcae74b7cf1801fe643fbe47f17))
+
+## [1.0.31](https://github.com/idaho/fltri-eslint-config/compare/1.0.30...1.0.31) (2021-11-09)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-unicorn from 37.0.1 to 38.0.1 ([#73](https://github.com/idaho/fltri-eslint-config/issues/73)) ([5487777](https://github.com/idaho/fltri-eslint-config/commit/5487777a72b91f89e59b0035b9b85deec628a373))
+
+## [1.0.30](https://github.com/idaho/fltri-eslint-config/compare/1.0.29...1.0.30) (2021-11-09)
+
+
+### Bug Fixes
+
+* upgrade eslint to version 8 ([#71](https://github.com/idaho/fltri-eslint-config/issues/71)) ([f261bfa](https://github.com/idaho/fltri-eslint-config/commit/f261bfa53838bef2164e322dc32aeee9bd6371c9))
+
 ## [1.0.29](https://github.com/idaho/fltri-eslint-config/compare/1.0.28...1.0.29) (2021-10-26)
 
 
