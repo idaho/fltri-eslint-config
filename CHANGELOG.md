@@ -1,3 +1,10 @@
+## [1.0.41](https://github.com/idaho/fltri-eslint-config/compare/1.0.40...1.0.41) (2021-11-26)
+
+
+### Bug Fixes
+
+* readuce package size ([#95](https://github.com/idaho/fltri-eslint-config/issues/95)) ([3038a75](https://github.com/idaho/fltri-eslint-config/commit/3038a75e88b1fea845888dc370aa9b6c8f00c08e))
+
 ## [1.0.40](https://github.com/idaho/fltri-eslint-config/compare/1.0.39...1.0.40) (2021-11-26)
 
 
