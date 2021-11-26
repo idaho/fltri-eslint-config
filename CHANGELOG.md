@@ -1,3 +1,10 @@
+## [1.0.39](https://github.com/idaho/fltri-eslint-config/compare/1.0.38...1.0.39) (2021-11-26)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jest from 25.2.4 to 25.3.0 ([#92](https://github.com/idaho/fltri-eslint-config/issues/92)) ([7fb99e0](https://github.com/idaho/fltri-eslint-config/commit/7fb99e03e0aedbbddf617c75e3dd75f439b06001))
+
 ## [1.0.38](https://github.com/idaho/fltri-eslint-config/compare/1.0.37...1.0.38) (2021-11-26)
 
 
