@@ -1,7 +1,7 @@
 {
   "name": "@fltri/eslint-config",
   "private": false,
-  "version": "1.0.35",
+  "version": "1.0.36",
   "description": "My custom ESLint config set.",
   "main": "node.js",
   "author": "idaho",
@@ -45,7 +45,7 @@
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "8.0.2",
     "@semantic-release/npm": "8.0.3",
-    "@semantic-release/release-notes-generator": "10.0.2",
+    "@semantic-release/release-notes-generator": "10.0.3",
     "@types/eslint": "7.28.2",
     "@types/jest": "27.0.2",
     "@types/node": "16.11.7",
