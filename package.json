@@ -1,7 +1,7 @@
 {
   "name": "@fltri/eslint-config",
   "private": false,
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "My custom ESLint config set.",
   "main": "node.js",
   "author": "idaho",
@@ -36,7 +36,7 @@
     "hosted-git-info": "4.0.2",
     "normalize-url": "7.0.2",
     "path-parse": "1.0.7",
-    "postcss": "8.4.1",
+    "postcss": "8.4.4",
     "trim-newlines": "4.0.2"
   },
   "devDependencies": {
@@ -48,7 +48,7 @@
     "@semantic-release/release-notes-generator": "10.0.3",
     "@types/eslint": "8.2.0",
     "@types/jest": "27.0.3",
-    "@types/node": "16.11.10",
+    "@types/node": "16.11.12",
     "ansi-regex": "6.0.1",
     "eslint": "8.3.0",
     "jest": "27.4.3",
