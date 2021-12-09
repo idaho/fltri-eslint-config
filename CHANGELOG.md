@@ -1,3 +1,10 @@
+## [1.0.45](https://github.com/idaho/fltri-eslint-config/compare/1.0.44...1.0.45) (2021-12-09)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-mocha from 9.0.0 to 10.0.1 ([#110](https://github.com/idaho/fltri-eslint-config/issues/110)) ([ab4aad7](https://github.com/idaho/fltri-eslint-config/commit/ab4aad7ae07bef73ee9cf2a2a747a105bb2dd170))
+
 ## [1.0.44](https://github.com/idaho/fltri-eslint-config/compare/1.0.43...1.0.44) (2021-12-09)
 
 
