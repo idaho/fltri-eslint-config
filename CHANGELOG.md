@@ -1,3 +1,10 @@
+## [1.0.46](https://github.com/idaho/fltri-eslint-config/compare/1.0.45...1.0.46) (2021-12-13)
+
+
+### Bug Fixes
+
+* bump postcss from 8.4.4 to 8.4.5 ([#112](https://github.com/idaho/fltri-eslint-config/issues/112)) ([877e323](https://github.com/idaho/fltri-eslint-config/commit/877e323f8b33f84f416e5c8fa9a9fae1a556dc81))
+
 ## [1.0.45](https://github.com/idaho/fltri-eslint-config/compare/1.0.44...1.0.45) (2021-12-09)
 
 
