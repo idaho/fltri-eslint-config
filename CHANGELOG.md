@@ -1,3 +1,17 @@
+## [1.0.48](https://github.com/idaho/fltri-eslint-config/compare/1.0.47...1.0.48) (2021-12-15)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/parser from 5.6.0 to 5.7.0 ([#118](https://github.com/idaho/fltri-eslint-config/issues/118)) ([8e17554](https://github.com/idaho/fltri-eslint-config/commit/8e17554bbbe1fa7acc12ecc49c85ebc366ec931e))
+
+## [1.0.47](https://github.com/idaho/fltri-eslint-config/compare/1.0.46...1.0.47) (2021-12-15)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 5.6.0 to 5.7.0 ([#117](https://github.com/idaho/fltri-eslint-config/issues/117)) ([ddbb55d](https://github.com/idaho/fltri-eslint-config/commit/ddbb55dc79ef68a2c53301cfcb4503351c60d331))
+
 ## [1.0.46](https://github.com/idaho/fltri-eslint-config/compare/1.0.45...1.0.46) (2021-12-13)
 
 
