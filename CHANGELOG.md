@@ -1,3 +1,10 @@
+## [1.0.52](https://github.com/idaho/fltri-eslint-config/compare/1.0.51...1.0.52) (2021-12-23)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-react from 7.27.1 to 7.28.0 ([#128](https://github.com/idaho/fltri-eslint-config/issues/128)) ([960076c](https://github.com/idaho/fltri-eslint-config/commit/960076c8dd61a2e062703845a5b0adebe44c0529))
+
 ## [1.0.51](https://github.com/idaho/fltri-eslint-config/compare/1.0.50...1.0.51) (2021-12-22)
 
 
