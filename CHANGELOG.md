@@ -1,3 +1,10 @@
+## [1.0.54](https://github.com/idaho/fltri-eslint-config/compare/1.0.53...1.0.54) (2021-12-28)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 5.8.0 to 5.8.1 ([#132](https://github.com/idaho/fltri-eslint-config/issues/132)) ([1875189](https://github.com/idaho/fltri-eslint-config/commit/187518926d6562d2353fcd1b324b6ce525ba93bc))
+
 ## [1.0.53](https://github.com/idaho/fltri-eslint-config/compare/1.0.52...1.0.53) (2021-12-28)
 
 
