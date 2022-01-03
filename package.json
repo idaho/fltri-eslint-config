@@ -1,7 +1,7 @@
 {
   "name": "@fltri/eslint-config",
   "private": false,
-  "version": "1.0.57",
+  "version": "1.0.58",
   "description": "My custom ESLint config set.",
   "main": "node.js",
   "author": "idaho",
