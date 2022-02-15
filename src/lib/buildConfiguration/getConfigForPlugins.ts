@@ -1,6 +1,6 @@
-import { EslintConfig } from '../shared/EslintConfig';
+import { type EslintConfig } from '../shared/EslintConfig';
 import { getConfigForPlugin } from './getConfigForPlugin';
-import { Plugin } from './Plugin';
+import { type Plugin } from './Plugin';
 
 const getConfigForPlugins = ({
   config,

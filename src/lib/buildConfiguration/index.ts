@@ -1,5 +1,5 @@
 import { availablePlugins } from './availablePlugins';
-import { EslintConfig } from '../shared/EslintConfig';
+import { type EslintConfig } from '../shared/EslintConfig';
 import { getConfigForPlugins } from './getConfigForPlugins';
 
 const buildConfiguration = (): EslintConfig => getConfigForPlugins({

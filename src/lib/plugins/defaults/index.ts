@@ -1,5 +1,5 @@
 import { env } from './env';
-import { EslintConfig } from '../../shared/EslintConfig';
+import { type EslintConfig } from '../../shared/EslintConfig';
 import { parserOptions } from './parserOptions';
 import { rules } from './rules';
 
