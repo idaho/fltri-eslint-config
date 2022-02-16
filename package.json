@@ -34,7 +34,7 @@
     "eslint-plugin-unicorn": "40.0.0",
     "glob-parent": "6.0.2",
     "hosted-git-info": "4.1.0",
-    "normalize-url": "7.0.2",
+    "normalize-url": "7.0.3",
     "path-parse": "1.0.7",
     "postcss": "8.4.5",
     "trim-newlines": "4.0.2"
