@@ -22,7 +22,7 @@
     "qa": "npm run lint"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.9.0",
+    "@typescript-eslint/eslint-plugin": "5.12.0",
     "@typescript-eslint/parser": "5.12.0",
     "eslint-plugin-better-styled-components": "1.1.2",
     "eslint-plugin-extended": "0.2.0",
@@ -44,7 +44,7 @@
     "@semantic-release/commit-analyzer": "9.0.2",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "8.0.2",
-    "@semantic-release/npm": "8.0.3",
+    "@semantic-release/npm": "9.0.0",
     "@semantic-release/release-notes-generator": "10.0.3",
     "@types/eslint": "8.4.1",
     "@types/jest": "27.4.0",
@@ -54,7 +54,7 @@
     "jest": "27.5.1",
     "react": "17.0.2",
     "rimraf": "3.0.2",
-    "semantic-release": "18.0.1",
+    "semantic-release": "19.0.2",
     "ts-jest": "27.1.2",
     "ts-node": "10.4.0",
     "typescript": "4.5.4"
