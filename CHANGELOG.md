@@ -1,3 +1,21 @@
+# [1.1.0](https://github.com/idaho/fltri-eslint-config/compare/1.0.60...1.1.0) (2022-03-01)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 5.12.0 to 5.12.1 ([#188](https://github.com/idaho/fltri-eslint-config/issues/188)) ([0e480eb](https://github.com/idaho/fltri-eslint-config/commit/0e480eb2d27b3d86493347cde5539b55ea757a91))
+* bump @typescript-eslint/parser from 5.12.0 to 5.12.1 ([#185](https://github.com/idaho/fltri-eslint-config/issues/185)) ([035cfbd](https://github.com/idaho/fltri-eslint-config/commit/035cfbd5a7b5b54ea81c2b60f6e67039e2eea063))
+* bump eslint-plugin-react from 7.28.0 to 7.29.2 ([#186](https://github.com/idaho/fltri-eslint-config/issues/186)) ([dfb9853](https://github.com/idaho/fltri-eslint-config/commit/dfb985338c5dd411892365968aad3da192179085))
+* bump eslint-plugin-unicorn from 40.1.0 to 41.0.0 ([#181](https://github.com/idaho/fltri-eslint-config/issues/181)) ([ca8e548](https://github.com/idaho/fltri-eslint-config/commit/ca8e54836b4369607c8496b78a90500a2eef92d8))
+* bump postcss from 8.4.6 to 8.4.7 ([#183](https://github.com/idaho/fltri-eslint-config/issues/183)) ([c12d969](https://github.com/idaho/fltri-eslint-config/commit/c12d969d3b87fb75f4fb7eeda1b890a54242f82e))
+
+
+### Features
+
+* prefer type imports ([#191](https://github.com/idaho/fltri-eslint-config/issues/191)) ([0ae18c3](https://github.com/idaho/fltri-eslint-config/commit/0ae18c3a5d940f80baf61c944a504e2acb52aeb7))
+* remove radar as a default installed plugin ([#189](https://github.com/idaho/fltri-eslint-config/issues/189)) ([ca00741](https://github.com/idaho/fltri-eslint-config/commit/ca00741e135a9a8b414a368bd7f84f180ea1aae7))
+* set prefer node protocol as new default ([#190](https://github.com/idaho/fltri-eslint-config/issues/190)) ([c95dd56](https://github.com/idaho/fltri-eslint-config/commit/c95dd56ae03b4d28317e14a47a8634d8060905d7))
+
 ## [1.0.60](https://github.com/idaho/fltri-eslint-config/compare/1.0.59...1.0.60) (2022-02-16)
 
 
