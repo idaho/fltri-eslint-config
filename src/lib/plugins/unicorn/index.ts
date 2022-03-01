@@ -1,4 +1,4 @@
-import { EslintConfig } from '../../shared/EslintConfig';
+import { type EslintConfig } from '../../shared/EslintConfig';
 import { plugins } from './plugins';
 import { rules } from './rules';
 

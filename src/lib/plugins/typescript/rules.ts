@@ -28,7 +28,7 @@ const rules = {
   }],
   '@typescript-eslint/consistent-type-definitions': [ 'error', 'interface' ],
   '@typescript-eslint/consistent-type-imports': [ 'error', {
-    prefer: 'no-type-imports',
+    prefer: 'type-imports',
     disallowTypeAnnotations: true
   }],
   '@typescript-eslint/default-param-last': 'error',
