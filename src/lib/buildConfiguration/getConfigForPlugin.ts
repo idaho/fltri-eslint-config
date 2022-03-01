@@ -1,4 +1,4 @@
-import { EslintConfig } from '../shared/EslintConfig';
+import { type EslintConfig } from '../shared/EslintConfig';
 import { getBetterStyledComponents } from '../plugins/betterStyledComponents';
 import { getDefaults } from '../plugins/defaults';
 import { getExtended } from '../plugins/extended';
@@ -9,7 +9,7 @@ import { getRadar } from '../plugins/radar';
 import { getReact } from '../plugins/react';
 import { getTypescript } from '../plugins/typescript';
 import { getUnicorn } from '../plugins/unicorn';
-import { Plugin } from './Plugin';
+import { type Plugin } from './Plugin';
 
 const getConfigForPlugin = ({ config, plugin }: { config: EslintConfig; plugin: Plugin }): EslintConfig => {
   switch (plugin) {

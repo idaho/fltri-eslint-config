@@ -1,4 +1,4 @@
-import { EslintEnv } from '../../shared/EslintConfig';
+import { type EslintEnv } from '../../shared/EslintConfig';
 
 const env: EslintEnv = {
   es6: true,

@@ -1,4 +1,4 @@
-import { EslintConfig } from '../../shared/EslintConfig';
+import { type EslintConfig } from '../../shared/EslintConfig';
 import { files } from './files';
 import { globals } from './globals';
 import { isModuleInstalled } from '../../shared/isModuleInstalled';
