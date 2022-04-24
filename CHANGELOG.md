@@ -1,3 +1,14 @@
+## [1.1.3](https://github.com/idaho/fltri-eslint-config/compare/1.1.2...1.1.3) (2022-04-24)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 5.18.0 to 5.20.0 ([#229](https://github.com/idaho/fltri-eslint-config/issues/229)) ([6d2a7eb](https://github.com/idaho/fltri-eslint-config/commit/6d2a7ebaa75a83fe34a85bf66bbbb824c510d468))
+* bump @typescript-eslint/parser from 5.17.0 to 5.18.0 ([#223](https://github.com/idaho/fltri-eslint-config/issues/223)) ([34a8cfb](https://github.com/idaho/fltri-eslint-config/commit/34a8cfb4ad9896c12794ecbf482506359871dfb3))
+* bump @typescript-eslint/parser from 5.18.0 to 5.19.0 ([#226](https://github.com/idaho/fltri-eslint-config/issues/226)) ([1d55e12](https://github.com/idaho/fltri-eslint-config/commit/1d55e122580f4751ff7e51ff1c093295413cf1cf))
+* bump eslint-plugin-jest from 26.1.3 to 26.1.4 ([#224](https://github.com/idaho/fltri-eslint-config/issues/224)) ([3f5b0e7](https://github.com/idaho/fltri-eslint-config/commit/3f5b0e7a46d7eb64cb8581bcddd389ee032662a2))
+* bump eslint-plugin-mocha from 10.0.3 to 10.0.4 ([#228](https://github.com/idaho/fltri-eslint-config/issues/228)) ([d8b44d5](https://github.com/idaho/fltri-eslint-config/commit/d8b44d5f2dc5c776c8d514e5d9fc69b70ff4ae38))
+
 ## [1.1.2](https://github.com/idaho/fltri-eslint-config/compare/1.1.1...1.1.2) (2022-04-07)
 
 
