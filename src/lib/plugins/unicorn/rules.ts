@@ -110,12 +110,7 @@ const rules = {
   'unicorn/prevent-abbreviations': 'off',
   'unicorn/string-content': 'off',
   'unicorn/throw-new-error': 'error',
-  'unicorn/prefer-node-protocol': [
-    'error',
-    {
-      checkRequire: true
-    }
-  ]
+  'unicorn/prefer-node-protocol': 'error'
 };
 
 export {
