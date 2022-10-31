@@ -22,7 +22,7 @@
     "qa": "npm run lint"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.37.0",
+    "@typescript-eslint/eslint-plugin": "5.41.0",
     "@typescript-eslint/parser": "5.37.0",
     "eslint-plugin-better-styled-components": "1.1.2",
     "eslint-plugin-extended": "0.2.0",
