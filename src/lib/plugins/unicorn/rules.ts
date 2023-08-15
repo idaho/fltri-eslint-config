@@ -26,7 +26,7 @@ const rules = {
     ]
   }],
   'unicorn/import-index': [ 'error', { ignoreImports: false }],
-  'unicorn/import-style': [ 'error', {
+  'unicorn/import-style': [ 'off', {
     styles: {
       crypto: { unassigned: false, default: true, namespace: false, named: false },
       fs: { unassigned: false, default: true, namespace: false, named: false },
