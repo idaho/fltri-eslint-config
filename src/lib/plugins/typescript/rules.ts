@@ -130,9 +130,11 @@ const rules = {
     ignoreVoid: false
   }],
   '@typescript-eslint/no-for-in-array': 'error',
-  '@typescript-eslint/no-implicit-any-catch': [ 'error', {
-    allowExplicitAny: false
-  }],
+
+  // '@typescript-eslint/no-implicit-any-catch': [ 'error', {
+  //   allowExplicitAny: false
+  // }],
+
   '@typescript-eslint/no-implied-eval': 'error',
   '@typescript-eslint/no-inferrable-types': [ 'error', {
     ignoreParameters: false,
