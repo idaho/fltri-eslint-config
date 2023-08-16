@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/idaho/fltri-eslint-config/compare/1.1.4...1.2.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* use node version 18 for release ([#384](https://github.com/idaho/fltri-eslint-config/issues/384)) ([1fa27f8](https://github.com/idaho/fltri-eslint-config/commit/1fa27f8eaea966d4ea7585dab56b54a023649503))
+
+
+### Features
+
+* update all packages ([#383](https://github.com/idaho/fltri-eslint-config/issues/383)) ([0d2436a](https://github.com/idaho/fltri-eslint-config/commit/0d2436a42211909eb794e0017f22fe4b7dc361bd))
+
 ## [1.1.4](https://github.com/idaho/fltri-eslint-config/compare/1.1.3...1.1.4) (2022-09-13)
 
 
