@@ -35,7 +35,7 @@
     "hosted-git-info": "7.0.0",
     "normalize-url": "8.0.0",
     "path-parse": "1.0.7",
-    "postcss": "8.4.27",
+    "postcss": "8.4.28",
     "trim-newlines": "5.0.0"
   },
   "devDependencies": {
