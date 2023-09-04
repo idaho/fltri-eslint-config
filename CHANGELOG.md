@@ -1,3 +1,13 @@
+## [1.2.1](https://github.com/idaho/fltri-eslint-config/compare/1.2.0...1.2.1) (2023-09-04)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 6.4.0 to 6.5.0 ([#398](https://github.com/idaho/fltri-eslint-config/issues/398)) ([5f72788](https://github.com/idaho/fltri-eslint-config/commit/5f7278846308dfb1d91540cf997ff14e246e36d9))
+* bump @typescript-eslint/parser from 6.4.0 to 6.5.0 ([#397](https://github.com/idaho/fltri-eslint-config/issues/397)) ([038c0c8](https://github.com/idaho/fltri-eslint-config/commit/038c0c8e18870eab9e523243551defdb5a9e4d46))
+* bump eslint-plugin-react from 7.33.1 to 7.33.2 ([#385](https://github.com/idaho/fltri-eslint-config/issues/385)) ([f3cbd52](https://github.com/idaho/fltri-eslint-config/commit/f3cbd52525c81376f962d017c265b1fcf9e218d4))
+* bump postcss from 8.4.27 to 8.4.29 ([#399](https://github.com/idaho/fltri-eslint-config/issues/399)) ([b1befb0](https://github.com/idaho/fltri-eslint-config/commit/b1befb0e62d34a986a83562d8b6fa9f6ee63af08))
+
 # [1.2.0](https://github.com/idaho/fltri-eslint-config/compare/1.1.4...1.2.0) (2023-08-16)
 
 
