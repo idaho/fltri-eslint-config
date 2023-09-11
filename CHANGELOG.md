@@ -1,3 +1,11 @@
+## [1.2.2](https://github.com/idaho/fltri-eslint-config/compare/1.2.1...1.2.2) (2023-09-11)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 6.5.0 to 6.6.0 ([#402](https://github.com/idaho/fltri-eslint-config/issues/402)) ([793fb83](https://github.com/idaho/fltri-eslint-config/commit/793fb83e52b107847c2dcc9a2c183bf47d2af22f))
+* bump @typescript-eslint/parser from 6.5.0 to 6.6.0 ([#405](https://github.com/idaho/fltri-eslint-config/issues/405)) ([f2409af](https://github.com/idaho/fltri-eslint-config/commit/f2409afb628aced24c5c50b5f1c286d0ed5d3e21))
+
 ## [1.2.1](https://github.com/idaho/fltri-eslint-config/compare/1.2.0...1.2.1) (2023-09-04)
 
 
