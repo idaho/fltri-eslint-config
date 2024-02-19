@@ -1,3 +1,14 @@
+## [1.2.3](https://github.com/idaho/fltri-eslint-config/compare/1.2.2...1.2.3) (2024-02-19)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/parser, @typescript-eslint/eslint-plugin from 6.6.0 to 7.0.1 and eslint-plugin-jest from 27.2.3 to 27.8.0 ([#471](https://github.com/idaho/fltri-eslint-config/issues/471)) ([3eecdcb](https://github.com/idaho/fltri-eslint-config/commit/3eecdcbcbc66172ee55729c9e5824d6020a03a5f))
+* bump eslint-plugin-jest from 27.2.3 to 27.6.0 ([#438](https://github.com/idaho/fltri-eslint-config/issues/438)) ([b5d298e](https://github.com/idaho/fltri-eslint-config/commit/b5d298e0c431e84128bacb17f42c01bbc9a9454a))
+* bump eslint-plugin-jest from 27.8.0 to 27.9.0 ([#477](https://github.com/idaho/fltri-eslint-config/issues/477)) ([4a08441](https://github.com/idaho/fltri-eslint-config/commit/4a084411306c88a21965d940e2071ef5efc660d0))
+* bump hosted-git-info from 7.0.0 to 7.0.1 ([#410](https://github.com/idaho/fltri-eslint-config/issues/410)) ([146605c](https://github.com/idaho/fltri-eslint-config/commit/146605c667d3552732f39dba3960885dc294fdd5))
+* bump postcss from 8.4.29 to 8.4.35 ([#478](https://github.com/idaho/fltri-eslint-config/issues/478)) ([f2e45f4](https://github.com/idaho/fltri-eslint-config/commit/f2e45f4689e1b3e35354235cf76ef7f095d417c6))
+
 ## [1.2.2](https://github.com/idaho/fltri-eslint-config/compare/1.2.1...1.2.2) (2023-09-11)
 
 
