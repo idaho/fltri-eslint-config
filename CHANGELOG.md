@@ -1,3 +1,11 @@
+## [1.2.5](https://github.com/idaho/fltri-eslint-config/compare/1.2.4...1.2.5) (2024-03-11)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/eslint-plugin from 7.0.1 to 7.1.1 ([#495](https://github.com/idaho/fltri-eslint-config/issues/495)) ([34bc39d](https://github.com/idaho/fltri-eslint-config/commit/34bc39d53e7a088a667609c4691e05d2bdc8444f))
+* bump @typescript-eslint/parser from 7.0.2 to 7.1.1 ([#496](https://github.com/idaho/fltri-eslint-config/issues/496)) ([9d497a8](https://github.com/idaho/fltri-eslint-config/commit/9d497a849fc89aac2549b8d110298b99b1861821))
+
 ## [1.2.4](https://github.com/idaho/fltri-eslint-config/compare/1.2.3...1.2.4) (2024-02-26)
 
 
